@@ -1,4 +1,4 @@
-/* Nav Bar and header */
+/***** Nav Bar and header *****/
 
 
 header {
@@ -39,4 +39,20 @@ a .disabled, a.disabled {
 
 .active {
 	color: yellow;
+}
+
+#colorChange :first-child {
+	color: red;
+}
+
+#redBackground {
+	background-color: red;
+}
+
+#blueText {
+	color: blue;
+}
+
+#colorChange :last-child {
+	background-color: blue;
 }
