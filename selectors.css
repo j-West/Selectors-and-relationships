@@ -20,13 +20,12 @@ header {
 	text-decoration: none;
 }
 
-/* 	Working to change color of all .disabled classes to grey except ones inside an anchor tag, 
-		which change to a different color.  :not() --- not sure if it works with selectors that are not basic	 */
+
 
 
 /*.disabled:not(a .disabled) {
 	color: grey;
-}
+}*/
 
 .disabled {
 	color: grey;
@@ -34,7 +33,7 @@ header {
 
 a .disabled, a.disabled {
 	color: purple;
-}*/
+}
 
 
 .active {
