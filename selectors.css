@@ -22,11 +22,6 @@ header {
 
 
 
-
-/*.disabled:not(a .disabled) {
-	color: grey;
-}*/
-
 .disabled {
 	color: grey;
 }
@@ -34,7 +29,6 @@ header {
 a .disabled, a.disabled {
 	color: purple;
 }
-
 
 .active {
 	color: yellow;
