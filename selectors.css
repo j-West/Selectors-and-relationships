@@ -56,3 +56,18 @@ a .disabled, a.disabled {
 #colorChange :last-child {
 	background-color: blue;
 }
+
+#child {
+	border: 1px solid green;
+	border-radius: 50%;
+	padding: 2em;
+}
+
+.promo {
+	font-weight: bold;
+	color: gold;
+}
+
+input {
+	height: 25px;
+}
