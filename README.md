@@ -1,6 +1,6 @@
 # Selectors and Relationships
 
-## This is for the fifth exercise in front-end-milestones/2-the-static-web
+## Fifth exercise in front-end-milestones/the-static-web
 
 ### Instructions for exercise:
 
